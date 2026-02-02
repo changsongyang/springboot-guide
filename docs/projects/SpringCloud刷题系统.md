@@ -14,13 +14,13 @@ _昨晚肝了很久~原创不易，若有帮助，求赞求转发啊！_
 
 另外，因为项目作者提供了详细的技术文档，所以你不用担心上手太难！
 
-![PassJava文档](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-12-21/PassJava%E6%96%87%E6%A1%A3%E5%9C%B0%E5%9D%80.png)
+![PassJava文档](https://oss.javaguide.cn/2020-12-21/PassJava%E6%96%87%E6%A1%A3%E5%9C%B0%E5%9D%80.png)
 
 ## 效果图
 
 我们先来看看这个面试刷题系统的效果图。这里我们只展示的是这个系统的前端（微信小程序），后台管理系统这里就不展示了。
 
-![PassJava前端展示](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-12-21/PassJava%E5%89%8D%E7%AB%AF%E5%B1%95%E7%A4%BA.png)
+![PassJava前端展示](https://oss.javaguide.cn/2020-12-21/PassJava%E5%89%8D%E7%AB%AF%E5%B1%95%E7%A4%BA.png)
 
 可以看到，除了少部分地方的颜色搭配比较难看之外，页面整体 UI 还是比较美观的。
 
@@ -48,7 +48,7 @@ _昨晚肝了很久~原创不易，若有帮助，求赞求转发啊！_
 
 Nacos 的基本介绍如下（图源：[官网文档-什么是 Nacos](https://nacos.io/zh-cn/docs/what-is-nacos.html "官网文档-什么是 Nacos")）：
 
-![nacos_map](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-12-21/nacosMap.jpg)
+![nacos_map](https://oss.javaguide.cn/2020-12-21/nacosMap.jpg)
 
 详解介绍一下 Nacos 在这个项目中提供的两个核心功能：
 
